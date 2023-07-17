@@ -11,8 +11,27 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `༄●⃝Mr_☯Z⁷᭄ _ 𝕆𝔽𝔽𝕀ℂ𝕀𝔸𝕃 _ 𝔹𝕆𝕋 _ 𝔾𝕣𝕠𝕦𝕡_ ⁰²³ـﮩﮩـ╬━🖤
+
+ℍ𝕪🥰..... 𝕀'𝕞_𝕠𝕟𝕝𝕚𝕟𝕖_ℕ𝕠𝕨 😎
+
+🦞□□□□□ 0%
+🦞■□□□□ 20%
+🦞■■□□□ 40%
+🦞■■■□□ 60%
+🦞■■■■□ 80%
+🦞■■■■■ 100%
+
+*​🇫​​🇴​​🇱​​🇱​​🇴​🇼 👇*
+
+⌨️ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐓𝐲𝐩𝐞 "*.𝐦𝐞𝐧𝐮*" 𝐓𝐨 𝐆𝐞𝐭 𝐀𝐥𝐥 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 📝
+⌨️ කමාන්ඩ් ලිස්ට් එක ගන්න .menu කියලා ටයිප් කරන්න 📝
+
+👥 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐆𝐫𝐨𝐮𝐩 👉 *https://chat.whatsapp.com/GcJ5iJWGa48LU5TEOwknV4
+📲 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 👉 *+94763516471
+
+
+🥰​🇹​​🇭​​🇦​​🇳​​🇰​​🇸​ ​🇫​​🇴​​🇷​ ​🇺​​🇸​​🇮​​🇳​​🇬​ ​🇲​​🇾​ ​🇧​​🇴​​🇹🥰` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,8 +48,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94763516471'] // owner number
+global.ownername = "༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐗𝐗𝐗 𝟗 ∆ ❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -47,16 +66,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.owner = ['+94763516471']
+global.ownertag = '+94763516471' //your tag number
+global.botname = '༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐗𝐗𝐗 𝟗 ∆' //ur bot name
+global.packname = "༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐗𝐗𝐗 𝟗 ∆" // sticker packname
+global.author = "༄●⃝𝐌𝐫_𝐎𝐳 _ 𝐎𝐅𝐂 𝟗 ∆" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94763516471'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
